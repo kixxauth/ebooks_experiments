@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="D8583758-23AD-4FBA-BD66-2E2CC7A3C776"/>
+    <meta name="epub-creator" content="iBooks Author 2.0"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta name="ibooks:ncxAdditions" content="assets/ncxExtensions.xml"/>
+  </head>
+  <docTitle>
+    <text>The Printing Press</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="n-00F898C8-4694-4112-BB59-06B3BE408E4E" playOrder="1">
+      <navLabel>
+        <text>Printing</text>
+      </navLabel>
+      <content src="content1.xhtml"/>
+    </navPoint>
+    <navPoint id="n-B00ABBE7-D089-4D80-BD1F-D763F0A4A568" playOrder="2">
+      <navLabel>
+        <text>History</text>
+      </navLabel>
+      <content src="content2.xhtml"/>
+      <navPoint id="n-F8C26948-B3B4-4FDD-9181-1FB88EE623C3" playOrder="3">
+        <navLabel>
+          <text>Economics</text>
+        </navLabel>
+        <content src="content3.xhtml"/>
+      </navPoint>
+      <navPoint id="n-F4A039D2-7340-4155-B031-DF683EE16747" playOrder="4">
+        <navLabel>
+          <text>Untitled</text>
+        </navLabel>
+        <content src="content4.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
