@@ -1,0 +1,54 @@
+@namespace ibooks "http://www.apple.com/2011/iBooks";
+html body
+{
+	-ibooks-gutter-margin-left: 50.0pt;
+	-ibooks-gutter-margin-right: 25.0pt;
+	-ibooks-head-height: 394.0pt;
+	margin: 20.0pt 50.0pt 20.0pt 200.0pt;
+}
+
+@page head
+{
+	::slot(textShape-90)
+	{
+		height: 23.000pt;
+		left: 50.000pt;
+		top: 39.000pt;
+		width: 668.000pt;
+		z-index: 1;
+	}
+	::slot(textShape-91)
+	{
+		height: 61.000pt;
+		left: 50.000pt;
+		top: 112.000pt;
+		width: 668.000pt;
+		z-index: 2;
+	}
+	::slot(textShape-92)
+	{
+		height: 0.001pt;
+		left: 50.000pt;
+		top: 30.000pt;
+		width: 668.002pt;
+		z-index: 3;
+	}
+	::slot(image-15)
+	{
+		height: 15.000pt;
+		left: 334.000pt;
+		top: 91.000pt;
+		width: 100.000pt;
+		z-index: 4;
+	}
+	::slot(textShape-93)
+	{
+		height: 98.000pt;
+		left: 50.000pt;
+		top: 184.000pt;
+		width: 668.000pt;
+		z-index: 5;
+	}
+	-ibooks-positioned-slots: textShape-90, textShape-91, textShape-92, image-15, textShape-93;
+}
+

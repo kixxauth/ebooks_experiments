@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bottom</key>
+	<string>Creme_frame2_14.png</string>
+	<key>Bottom Frame Inset</key>
+	<integer>3</integer>
+	<key>Bottom Left</key>
+	<string>Creme_frame2_13.png</string>
+	<key>Bottom Right</key>
+	<string>Creme_frame2_09.png</string>
+	<key>Left</key>
+	<string>Creme_frame2_05.png</string>
+	<key>Left Frame Inset</key>
+	<integer>3</integer>
+	<key>Minimum Asset Scale</key>
+	<real>0.40000000596046448</real>
+	<key>Right</key>
+	<string>Creme_frame2_08.png</string>
+	<key>Right Frame Inset</key>
+	<integer>3</integer>
+	<key>Stretch Tiles</key>
+	<integer>0</integer>
+	<key>Top</key>
+	<string>Creme_frame2_02.png</string>
+	<key>Top Frame Inset</key>
+	<integer>3</integer>
+	<key>Top Left</key>
+	<string>Creme_frame2_01.png</string>
+	<key>Top Right</key>
+	<string>Creme_frame2_04.png</string>
+	<key>name</key>
+	<string>Creme_Main</string>
+	<key>preview-image</key>
+	<string>Creme_Main.png</string>
+</dict>
+</plist>
