@@ -1,0 +1,128 @@
+printing-press-portrait
+├── META-INF
+│   ├── com.apple.ibooks.display-options.xml
+│   └── container.xml
+├── OPS
+│   ├── assets
+│   │   ├── css
+│   │   │   ├── content1-paginated.css
+│   │   │   ├── content1.css
+│   │   │   ├── content2-paginated.css
+│   │   │   ├── content2.css
+│   │   │   ├── content3-paginated.css
+│   │   │   ├── content3.css
+│   │   │   ├── content4-paginated.css
+│   │   │   ├── content4.css
+│   │   │   ├── content5-paginated.css
+│   │   │   ├── content5.css
+│   │   │   ├── glossary.css
+│   │   │   ├── glossary1-paginated.css
+│   │   │   ├── glossary1.css
+│   │   │   ├── tocConfig-1-paginated.css
+│   │   │   ├── tocConfig-1.css
+│   │   │   ├── tocConfig-2-paginated.css
+│   │   │   ├── tocConfig-2.css
+│   │   │   ├── tocConfig-3-paginated.css
+│   │   │   └── tocConfig-3.css
+│   │   ├── equation
+│   │   │   └── equationEnvironment.xml
+│   │   ├── hints
+│   │   │   ├── content1-paginated.plist
+│   │   │   ├── content2-paginated.plist
+│   │   │   ├── content3-paginated.plist
+│   │   │   ├── content4-paginated.plist
+│   │   │   └── content5-paginated.plist
+│   │   ├── images
+│   │   │   ├── BuxheimStChristopher-1-1.jpg
+│   │   │   ├── BuxheimStChristopher-1-2.jpg
+│   │   │   ├── BuxheimStChristopher-1.jpg
+│   │   │   ├── Flourish_Novel.png
+│   │   │   ├── Iserlohn-Druckpresse1-Bubo-1.jpg
+│   │   │   ├── Metal_movable_type.jpg
+│   │   │   ├── Wove_Paper_cream_tile.jpg
+│   │   │   ├── cover-image.jpg
+│   │   │   ├── frame-1-gutter.png
+│   │   │   ├── introMedia.jpg
+│   │   │   ├── toc-portrait-header.jpg
+│   │   │   ├── tocConfig-1-thumb.jpg
+│   │   │   ├── tocConfig-2-thumb.jpg
+│   │   │   └── tocConfig-3-thumb.jpg
+│   │   ├── ncxExtensions.xml
+│   │   ├── pictureFrames
+│   │   │   └── Headlines
+│   │   │       └── Contents
+│   │   │           └── Resources
+│   │   │               ├── Headlines.png
+│   │   │               ├── Headlines_01.png
+│   │   │               ├── Headlines_02.png
+│   │   │               ├── Headlines_03.png
+│   │   │               ├── Headlines_04.png
+│   │   │               ├── Headlines_06.png
+│   │   │               ├── Headlines_07.png
+│   │   │               ├── Headlines_08.png
+│   │   │               ├── Headlines_09.png
+│   │   │               └── index.plist
+│   │   ├── search
+│   │   │   ├── searchIndex.xml
+│   │   │   └── searchRefText.xml
+│   │   ├── svg
+│   │   │   ├── content1.svg
+│   │   │   ├── content2.svg
+│   │   │   ├── content3.svg
+│   │   │   ├── content4.svg
+│   │   │   ├── content5.svg
+│   │   │   ├── glossary.svg
+│   │   │   ├── glossary1.svg
+│   │   │   ├── tocConfig-1.svg
+│   │   │   ├── tocConfig-2.svg
+│   │   │   └── tocConfig-3.svg
+│   │   ├── thumbs
+│   │   │   ├── content1
+│   │   │   │   ├── large
+│   │   │   │   │   ├── thumb-1.jpg
+│   │   │   │   │   └── thumb-2.jpg
+│   │   │   │   └── tiny
+│   │   │   │       ├── thumb-1.jpg
+│   │   │   │       └── thumb-2.jpg
+│   │   │   ├── content2
+│   │   │   │   ├── large
+│   │   │   │   │   ├── thumb-1.jpg
+│   │   │   │   │   └── thumb-2.jpg
+│   │   │   │   └── tiny
+│   │   │   │       ├── thumb-1.jpg
+│   │   │   │       └── thumb-2.jpg
+│   │   │   ├── content3
+│   │   │   │   ├── large
+│   │   │   │   │   └── thumb-1.jpg
+│   │   │   │   └── tiny
+│   │   │   │       └── thumb-1.jpg
+│   │   │   ├── content4
+│   │   │   │   ├── large
+│   │   │   │   │   ├── thumb-1.jpg
+│   │   │   │   │   ├── thumb-2.jpg
+│   │   │   │   │   └── thumb-3.jpg
+│   │   │   │   └── tiny
+│   │   │   │       ├── thumb-1.jpg
+│   │   │   │       ├── thumb-2.jpg
+│   │   │   │       └── thumb-3.jpg
+│   │   │   └── content5
+│   │   │       ├── large
+│   │   │       │   └── thumb-1.jpg
+│   │   │       └── tiny
+│   │   │           └── thumb-1.jpg
+│   │   ├── tocConfig-1.xhtml
+│   │   ├── tocConfig-2.xhtml
+│   │   └── tocConfig-3.xhtml
+│   ├── content1.xhtml
+│   ├── content2.xhtml
+│   ├── content3.xhtml
+│   ├── content4.xhtml
+│   ├── content5.xhtml
+│   ├── glossary.xhtml
+│   ├── glossary1.xhtml
+│   ├── ibooks.ncx
+│   └── ibooks.opf
+├── iTunesArtwork
+└── mimetype
+
+29 directories, 96 files
