@@ -1,0 +1,64 @@
+@namespace ibooks "http://www.apple.com/2011/iBooks";
+#textShape-20{
+	-ibooks-line-hints: textShape-20 p url(../hints/content3-paginated.plist) 9 2;
+}
+#textShape-22{
+	-ibooks-line-hints: textShape-22 p url(../hints/content3-paginated.plist) 11 1;
+}
+#textShape-19{
+	-ibooks-line-hints: textShape-19 p url(../hints/content3-paginated.plist) 8 1;
+}
+@page ::nth-instance
+{
+	height: 1004.0pt;
+	width: 768.0pt;
+	::slot(textShape-18)
+	{
+		-ibooks-box-wrap-exterior-path: directional contour both 12.0pt 0.500000 false;
+		height: 1004.000pt;
+		left: 0.000pt;
+		top: 0.000pt;
+		width: 768.000pt;
+		z-index: 1;
+	}
+	::slot(textShape-19)
+	{
+		height: 22.000pt;
+		left: 70.000pt;
+		top: 45.000pt;
+		width: 628.000pt;
+		z-index: 2;
+	}
+	::slot(textShape-20)
+	{
+		height: 120.000pt;
+		left: 70.000pt;
+		top: 75.000pt;
+		width: 628.000pt;
+		z-index: 3;
+	}
+	::slot(textShape-21)
+	{
+		-ibooks-column-count: 1;
+		-ibooks-line-hints: textShape-21 p url(../hints/content3-paginated.plist) 0 8;
+		height: 740.000pt;
+		left: 70.000pt;
+		padding-bottom: 0.0000pt;
+		padding-left: 0.0000pt;
+		padding-right: 0.0000pt;
+		padding-top: 0.0000pt;
+		top: 200.000pt;
+		width: 628.000pt;
+		z-index: 4;
+	}
+	::slot(textShape-22)
+	{
+		height: 20.000pt;
+		left: 70.000pt;
+		top: 960.000pt;
+		width: 628.000pt;
+		z-index: 5;
+	}
+	-ibooks-positioned-slots: textShape-18, textShape-19, textShape-20, textShape-22, body(textShape-21);
+}
+
