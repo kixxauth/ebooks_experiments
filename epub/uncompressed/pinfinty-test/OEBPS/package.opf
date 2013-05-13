@@ -37,7 +37,6 @@
     <item id="pg001" href="page001.xhtml" media-type="application/xhtml+xml"/>
     <item id="pg002" href="page002.xhtml" media-type="application/xhtml+xml"/>
     <item id="pg003" href="page003.xhtml" media-type="application/xhtml+xml"/>
-    <item id="pg004" href="page004.xhtml" media-type="application/xhtml+xml"/>
   
     <!--images-->
     <item id="cover1" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
@@ -51,7 +50,6 @@
     <itemref idref="pg001"/>   
     <itemref idref="pg002"/>
     <itemref idref="pg003"/>
-    <itemref idref="pg004"/>
   </spine>
 
 </package>
