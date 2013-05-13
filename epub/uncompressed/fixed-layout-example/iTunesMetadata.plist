@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Apple Inc</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>75F4C6B9144C0554E3BDBF0728B1E95E</string>
+		<key>cover-image-path</key>
+		<string>OEBPS/images/cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>D990057F9F60592258E81F86BE1A151D</string>
+		<key>publisher-unique-id</key>
+		<string>0123456789</string>
+		<key>unique-id</key>
+		<integer>8655459044131714406</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Fixed Layout Example 3.0</string>
+	<key>playlistName</key>
+	<string>Fixed Layout Example 3.0</string>
+</dict>
+</plist>
