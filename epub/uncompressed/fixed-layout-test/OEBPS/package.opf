@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf"
+    unique-identifier="bookid" version="3.0"
+    prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" >
+    <dc:title>ePub 3 Fixed Layout Test</dc:title>
+    <dc:identifier id="bookid">0123456789</dc:identifier>
+    <dc:language>en</dc:language>
+    <meta property="dcterms:modified">2013-05-12T00:00:00Z</meta>
+
+    <dc:rights>
+        This book is copyrighted by Pinfinity Consulting LLC and may be shared
+        under the Creative Commons Attribution-ShareAlike License
+        (http://creativecommons.org/licenses/by-sa/3.0/).
+    </dc:rights>    
+    <dc:creator>Pinfinty Consulting LLC</dc:creator>
+    
+    <meta property="ibooks:version">3.0</meta>
+    
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:spread">none</meta>
+    <meta property="rendition:orientation">auto</meta>
+  </metadata>
+  
+  <manifest>
+    <!--supplementary -->
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+
+    <!--javascript-->
+    <!--
+    <item id="js-ib" href="js/ibooks.js" media-type="text/javascript"/>
+    -->
+
+    <!--content-->  
+    <!--
+    <item id="pg001" href="page001.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="pg002" href="page002.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="pg003" href="page003.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="pg004" href="page004.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    -->
+    <item id="pg001" href="page001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pg002" href="page002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pg003" href="page003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="pg004" href="page004.xhtml" media-type="application/xhtml+xml"/>
+  
+    <!--images-->
+    <item id="cover1" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <!--
+    <item id="pg1-fl" href="images/page1/flowers.jpg" media-type="image/jpeg"/>
+    <item id="pg2-ct" href="images/page2/flowers/center.png" media-type="image/png"/>
+    -->
+  </manifest>
+  
+  <spine>
+    <itemref idref="pg001"/>   
+    <itemref idref="pg002"/>
+    <itemref idref="pg003"/>
+    <itemref idref="pg004"/>
+  </spine>
+
+</package>
