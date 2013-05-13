@@ -1,0 +1,69 @@
+.
+├── META-INF
+│   └── container.xml
+├── OEBPS
+│   ├── audio
+│   │   ├── sonata14.mp4
+│   │   ├── sonnet.mp4
+│   │   └── wind.mp4
+│   ├── css
+│   │   ├── page01.css
+│   │   ├── page02.css
+│   │   ├── page03.css
+│   │   ├── page04.css
+│   │   ├── page05.css
+│   │   ├── page06.css
+│   │   ├── page07.css
+│   │   ├── page08.css
+│   │   └── stylesheet.css
+│   ├── images
+│   │   ├── cover.jpg
+│   │   ├── page1
+│   │   │   └── flowers.jpg
+│   │   ├── page2
+│   │   │   ├── flowers
+│   │   │   │   ├── center.png
+│   │   │   │   └── stem.png
+│   │   │   └── page2.jpg
+│   │   ├── page3
+│   │   │   └── background.jpg
+│   │   ├── page4
+│   │   │   ├── background.jpg
+│   │   │   ├── flower.png
+│   │   │   └── rays.png
+│   │   ├── page5
+│   │   │   ├── background.jpg
+│   │   │   ├── closedeyes.png
+│   │   │   ├── face.png
+│   │   │   └── star-sprite.png
+│   │   ├── page6
+│   │   │   └── background.jpg
+│   │   └── page8
+│   │       ├── backCover.jpg
+│   │       └── poster.jpg
+│   ├── js
+│   │   ├── ibooks.js
+│   │   └── media-overlay.js
+│   ├── package.opf
+│   ├── page001.xhtml
+│   ├── page002.xhtml
+│   ├── page003.xhtml
+│   ├── page004.xhtml
+│   ├── page005.xhtml
+│   ├── page006.xhtml
+│   ├── page007.xhtml
+│   ├── page008.xhtml
+│   ├── smil
+│   │   ├── page001.smil
+│   │   ├── page002.smil
+│   │   ├── page003.smil
+│   │   ├── page004.smil
+│   │   ├── page005.smil
+│   │   └── page007.smil
+│   ├── toc.xhtml
+│   └── video
+│       └── video.m4v
+├── iTunesMetadata.plist
+└── mimetype
+
+16 directories, 50 files
